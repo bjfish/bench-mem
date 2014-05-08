@@ -79,5 +79,7 @@ grails.project.dependency.resolution = {
         //compile ":less-asset-pipeline:1.5.0"
         //compile ":coffee-asset-pipeline:1.5.0"
         //compile ":handlebars-asset-pipeline:1.0.0.3"
+        compile ":dynamic-controller:0.5.1"
+        runtime ":app-info:1.0.3"
     }
 }
